@@ -1,0 +1,21 @@
+{
+  "name": "playwrighttestproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PradyumnaKale/PlaywrightTestProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PradyumnaKale/PlaywrightTestProject/issues"
+  },
+  "homepage": "https://github.com/PradyumnaKale/PlaywrightTestProject#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
